@@ -22,14 +22,12 @@ I'm always looking for new challenges and exciting opportunities to improve my s
 <div style="
     width: 100%;
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
 ">
-<a href="https://github.com/EliseuSantos/" style="display: flex;">
+<a href="https://github.com/EliseuSantos/">
   <img style="width: 100%; height: 150px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EliseuSantos&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 
-<a href="https://github.com/EliseuSantos/" style="display: flex;">
+<a href="https://github.com/EliseuSantos/">
     <img style="width: 100%; height: 150px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical&hide_border=false" />
 </a>
 </div>
