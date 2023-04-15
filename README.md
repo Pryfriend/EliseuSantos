@@ -19,17 +19,13 @@ I'm always looking for new challenges and exciting opportunities to improve my s
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
-<div style="
-    width: 100%;
-">
 <a href="https://github.com/EliseuSantos/">
-  <img style="width: 100%; height: 150px; float: left;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EliseuSantos&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EliseuSantos&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 
 <a href="https://github.com/EliseuSantos/">
-    <img style="width: 100%; height: 150pxfloat: right;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical&hide_border=false" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical&hide_border=false" />
 </a>
-</div>
   
 <!--
 **EliseuSantos/EliseuSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
