@@ -21,13 +21,12 @@ I'm always looking for new challenges and exciting opportunities to improve my s
 
 <div style="
     width: 100%;
-    display: flex;
 ">
-<a href="https://github.com/EliseuSantos/">
+<a href="https://github.com/EliseuSantos/" style="float: left">
   <img style="width: 100%; height: 150px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EliseuSantos&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 
-<a href="https://github.com/EliseuSantos/">
+<a href="https://github.com/EliseuSantos/" style="float: right">
     <img style="width: 100%; height: 150px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical&hide_border=false" />
 </a>
 </div>
