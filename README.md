@@ -28,7 +28,7 @@ I'm always looking for new challenges and exciting opportunities to improve my s
 </a>
 
 <a href="https://github.com/EliseuSantos/">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EliseuSantos&layout=compact" />
 </a>
   
 <!--
