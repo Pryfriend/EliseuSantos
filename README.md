@@ -26,6 +26,10 @@ I'm always looking for new challenges and exciting opportunities to improve my s
 <a href="https://github.com/EliseuSantos/">
     <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical&hide_border=false" />
 </a>
+
+<a href="https://github.com/EliseuSantos/">
+      <img align="left" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical&hide_border=false](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact)" />
+</a>
   
 <!--
 **EliseuSantos/EliseuSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
