@@ -1,6 +1,7 @@
 ### Hi there, I'am Eliseu! 👋
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Eliseu__Santos)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/eliseusantos)
+[![wakatime](https://wakatime.com/badge/user/afc34c3a-f4b9-42ef-a9e5-986855fc03ef.svg?style=for-the-badge)](https://wakatime.com/@afc34c3a-f4b9-42ef-a9e5-986855fc03ef)
 
 Software engineer with more than 10 years of experience in several programming languages, including **Javascript(Reactjs, Angular, VueJS, SingleSPA, NestJS, Next), PHP(Laravel, Symfony, Codeigniter), Python, Solidity, BashScript and Java(Spring)**. In addition, I am a passionate musician, playing keyboards, guitar, double bass, drums and melodica. In my spare time, I like to dabble in home automation, electrical and **CCTV**. I am an enthusiastic contributor and work very well in a team, valuing effective communication and cooperation. I am also a cryptocurrency enthusiast, with a particular interest in **Bitcoin** and **Ethereum**. Also, I'm a huge fan of anime, especially Naruto, and I love watching movies. 
 I'm always looking for new challenges and exciting opportunities to improve my skills as a software engineer and musician.
