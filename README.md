@@ -1,6 +1,5 @@
-### Hi there, I'am Eliseu! 👋
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/Eliseu__Santos)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/eliseusantos)
+### Hi there, pry! 👋
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/priscila-silva)
 [![wakatime](https://wakatime.com/badge/user/afc34c3a-f4b9-42ef-a9e5-986855fc03ef.svg?style=for-the-badge)](https://wakatime.com/@afc34c3a-f4b9-42ef-a9e5-986855fc03ef)
 
 Software engineer with more than 10 years of experience in several programming languages, including **Javascript(Reactjs, Angular, VueJS, SingleSPA, NestJS, Next), PHP(Laravel, Symfony, Codeigniter), Python, Solidity, BashScript and Java(Spring)**. In addition, I am a passionate musician, playing keyboards, guitar, double bass, drums and melodica. In my spare time, I like to dabble in home automation, electrical and **CCTV**. I am an enthusiastic contributor and work very well in a team, valuing effective communication and cooperation. I am also a cryptocurrency enthusiast, with a particular interest in **Bitcoin** and **Ethereum**. Also, I'm a huge fan of anime, especially Naruto, and I love watching movies. 
@@ -20,20 +19,20 @@ I'm always looking for new challenges and exciting opportunities to improve my s
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
-<a href="https://github.com/EliseuSantos/">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EliseuSantos&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+<a href="https://github.com/PryFriend/">
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PryFriend&layout=compact&theme=radical&hide_border=false" />&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a>
 
-<a href="https://github.com/EliseuSantos/">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical&hide_border=false" />
+<a href="https://github.com/PryFriend/">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PryFriend&layout=compact&theme=radical&hide_border=false" />
 </a>
 
-<a href="https://github.com/EliseuSantos/">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EliseuSantos&layout=compact" />
+<a href="https://github.com/PryFriend/">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=PryFriend&layout=compact" />
 </a>
   
 <!--
-**EliseuSantos/EliseuSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PryFriend/PryFriend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
